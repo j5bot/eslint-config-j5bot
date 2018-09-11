@@ -1,0 +1,45 @@
+{
+  "_from": "eslint-config-j5bot",
+  "_id": "eslint-config-j5bot@1.1.5",
+  "_inBundle": false,
+  "_integrity": "sha1-T6RSz0CmtYhJHhK/YRZFyEWLelM=",
+  "_location": "/eslint-config-j5bot",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "eslint-config-j5bot",
+    "name": "eslint-config-j5bot",
+    "escapedName": "eslint-config-j5bot",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/eslint-config-j5bot/-/eslint-config-j5bot-1.1.5.tgz",
+  "_shasum": "4fa452cf40a6b588491e12bf611645c8458b7a53",
+  "_spec": "eslint-config-j5bot",
+  "_where": "/Users/j5/Code/deck-of-cards",
+  "author": {
+    "name": "Jonathan 'J5' Cook",
+    "email": "jonathan.j5.cook@gmail.com",
+    "url": "https://j5bot.github.io"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "j5's eslint config",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "eslint-config-j5bot",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.5"
+}
